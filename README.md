@@ -1,66 +1,136 @@
 <!-- ========================= -->
-<!-- Banner Image -->
+<!-- Banner -->
 <!-- ========================= -->
 
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%">
+  <img src="YOUR_BANNER_URL" alt="Banner" width="100%">
 </p>
 
-<h1 align="center">Hi 👋, I'm Your Name</h1>
+<h1 align="center">Hi 👋, I'm Abdu Rahman</h1>
 
 <p align="center">
-  Machine Learning Enthusiast • AI Developer • Data Science Learner
+  <strong>Statistics & Data Science Student</strong><br>
+  Aspiring Data Scientist & Data Analyst
+</p>
+
+<p align="center">
+  Python • R • SQL • Machine Learning • Deep Learning • AI
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science Student
-- 🤖 Interested in AI, Machine Learning and Deep Learning
-- 🌱 Currently learning LLMs and RAG
-- 🔭 Working on AI-powered applications
-- 💬 Ask me about Python, ML, NLP
-- 📫 Reach me at: your@email.com
+🎓 I am a fourth-year **Bachelor of Statistics and Data Science** student at **Parami University – Bard College**.
+
+📊 I am passionate about using data to uncover insights, solve problems, and support data-driven decision making.
+
+🔍 My interests include:
+
+- Data Analysis & Visualization
+- Statistical Modeling
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- Business Analytics
+
+💡 I have hands-on experience building and evaluating machine learning and deep learning models, including:
+
+- Regression & Classification Models
+- Convolutional Neural Networks (CNNs)
+- Transfer Learning
+- Predictive Analytics Projects
+
+🌱 Currently exploring advanced machine learning techniques, AI applications, and real-world data science projects.
 
 ---
 
 ## 🌐 Connect with Me
 
-<p align="left">
-<a href="https://linkedin.com/in/yourprofile">
+<p align="center">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="mailto:your@email.com">
+<a href="mailto:YOUR_EMAIL">
 <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail">
 </a>
 
-<a href="https://github.com/yourusername">
+<a href="https://github.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
 </a>
 </p>
 
 ---
 
-## 💻 Languages & Tools
+## 💻 Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,tensorflow,pytorch,docker,git,github,vscode,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=python,r,html,css" />
 </p>
+
+### Database Technologies
+
+- SQL
+- PostgreSQL
+- MySQL
+
+---
+
+## 🛠️ Tools & Frameworks
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,flask,git,github,vscode" />
+</p>
+
+### Data Science & Analytics
+
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Statsmodels
+
+### Machine Learning & Deep Learning
+
+- TensorFlow
+- PyTorch
+- CNNs
+- Transfer Learning
+
+### App Development & Deployment
+
+- Streamlit
+- Flask
+
+### Version Control
+
+- Git
+- GitHub
 
 ---
 
 ## 📌 Current Projects
 
-### 🔹 AI Chatbot
-- RAG-powered chatbot using LangChain and Hugging Face.
+🔹 Building end-to-end data analytics projects using Python, SQL, and visualization tools.
 
-### 🔹 Computer Vision Project
-- Object detection using YOLOv8.
+🔹 Developing machine learning models for predictive analytics and classification tasks.
 
-### 🔹 Portfolio Website
-- Personal portfolio built with React.
+🔹 Exploring deep learning architectures and transfer learning techniques.
+
+🔹 Creating interactive data applications with Streamlit.
+
+---
+
+## 🎯 Current Focus
+
+- Data Analytics
+- Statistical Learning
+- Machine Learning Engineering
+- Deep Learning
+- Artificial Intelligence
+- Data Storytelling & Visualization
 
 ---
 
@@ -93,7 +163,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
 ---
@@ -102,4 +172,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning data into meaningful insights through statistics, analytics, and machine learning."</i>
 </p>
