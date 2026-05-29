@@ -137,8 +137,10 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=abdurahman2027&show_icons=true&theme=tokyonight" />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=abdurahman2027&show_icons=true&theme=tokyonight"
+    alt="GitHub Stats"
+  />
 </p>
 
 ---
