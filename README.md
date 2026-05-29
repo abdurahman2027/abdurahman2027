@@ -8,7 +8,7 @@
 
 <h1 align="center">Hi 👋, I'm Abdu Rahman</h1>
 
-<p align="center">
+<p align="left">
   <strong>Statistics & Data Science Student</strong><br>
   Aspiring Data Scientist & Data Analyst
 </p>
