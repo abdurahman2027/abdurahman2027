@@ -13,7 +13,7 @@
   Aspiring Data Scientist & Data Analyst
 </p>
 
-<p align="center">
+<p align="left">
   Python • R • SQL • Machine Learning • Deep Learning • AI
 </p>
 
