@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-🎓 I am a fourth-year **Bachelor of Statistics and Data Science** student at **Parami University – Bard College**.
+🎓 I am a senior Statistics and Data Science student at ★★Parami University – Bard College★★ with interests in data analytics, machine learning, and artificial intelligence. I enjoy applying data-driven approaches to solve real-world problems and support informed decision-making.
 
 📊 I am passionate about using data to uncover insights, solve problems, and support data-driven decision making.
 
