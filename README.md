@@ -48,7 +48,7 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-<a href="[https://www.linkedin.com/in/abdu-rahman-1b1077170?u]">
+<a href="https://www.linkedin.com/in/abdu-rahman-1b1077170?u">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
