@@ -146,7 +146,7 @@ src="https://github-readme-stats.vercel.app/api?username=abdurahman2027&show_ico
 ## 🔥 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdurahman2027&layout=compact&theme=tokyonight&langs_count=6" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abdurahman2027&layout=compact&theme=tokyonight&hide=javascript" />
 </p>
 
 ---
