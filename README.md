@@ -146,8 +146,8 @@ src="https://github-readme-stats.vercel.app/api?username=abdurahman2027&show_ico
 ## 🔥 Top Languages
 
 <p align="center">
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+  <img height="180em"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdurahman2027&layout=compact&theme=tokyonight" />
 </p>
 
 ---
