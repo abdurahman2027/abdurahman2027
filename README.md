@@ -111,15 +111,40 @@
 
 ---
 
-## 📌 Current Projects
+## 📌 Featured Projects
 
-🔹 Building end-to-end data analytics projects using Python, SQL, and visualization tools.
+### 🏥 [Insurance Prediction App](https://github.com/abdurahman2027/insurance_prediction_app)
 
-🔹 Developing machine learning models for predictive analytics and classification tasks.
+Machine learning application for predicting insurance-related outcomes using predictive analytics techniques.
 
-🔹 Exploring deep learning architectures and transfer learning techniques.
+### ♻️ [Garbage Classification Abdu](https://github.com/abdurahman2027/garbage-classification-abdu)
 
-🔹 Creating interactive data applications with Streamlit.
+Deep learning-based image classification system for automated waste categorization using Convolutional Neural Networks (CNNs) and transfer learning.
+
+### 🌸 [Iris Flower Predictor](https://github.com/abdurahman2027/iris_flower_predictor)
+
+Machine learning application for classifying iris flower species based on their physical characteristics.
+
+### 🌫️ [Air Quality Clustering](https://github.com/abdurahman2027/air_quality_clustering)
+
+Unsupervised learning project applying clustering techniques to discover patterns and insights in air quality data.
+
+### 🧮 [Calculator](https://github.com/abdurahman2027/calculator)
+
+A simple calculator application demonstrating programming fundamentals and user interaction.
+
+### 🚲 [Bike Sharing Forecasting](https://github.com/ThantSinTun009/Bike-Sharing-Forecasting)
+
+Collaborative time-series forecasting project for predicting bike-sharing demand using historical usage data.
+
+### 🧠 [Advanced Machine Learning Midterm Project (HAC)](https://github.com/khinenwelynn/AdvancedML_MidtermProject_HAC)
+
+Team-based machine learning project exploring clustering techniques and pattern discovery in complex datasets.
+
+### 🏥 [Hospital Management System](https://github.com/Min-Thant-Hein-17/DBMS_Final_Project-Hospital_Management_System)
+
+Collaborative database management project focused on designing and implementing a hospital management system using SQL and database design principles.
+
 
 ---
 
